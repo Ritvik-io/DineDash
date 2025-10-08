@@ -1,4 +1,7 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/your-asset-link/dinedash-logo.png" alt="Dine Dash Logo" width="200"/> </p> <h1 align="center">🍽️ Dine Dash: Elevating the Hotel Guest Experience</h1> <p align="center"> <strong>Revolutionizing Room Service for Boutique Hospitality</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-In%20Progress-blue" alt="Status"> <img src="https://img.shields.io/badge/License-MIT-green" alt="License"> <img src="https://img.shields.io/badge/Built%20With-Node.js%20%7C%20MySQL%20%7C%20HTML%20%7C%20CSS-yellow" alt="Tech Stack"> </p>
+<p align="center">
+  <img src="DineDash.png" alt="Dine Dash Logo" width="150"/>
+</p>
+ <h1 align="center">🍽️ Dine Dash: Elevating the Hotel Guest Experience</h1> <p align="center"> <strong>Revolutionizing Room Service for Boutique Hospitality</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-In%20Progress-blue" alt="Status"> <img src="https://img.shields.io/badge/License-MIT-green" alt="License"> <img src="https://img.shields.io/badge/Built%20With-Node.js%20%7C%20MySQL%20%7C%20HTML%20%7C%20CSS-yellow" alt="Tech Stack"> </p>
 🌟 Overview
 
 
